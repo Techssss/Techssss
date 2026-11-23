@@ -1,6 +1,6 @@
-<h1 align="center">Nguyen Duc Minh Nghia (Techssss)</h1>
 
-<h4 align="center">Software Engineering Student | Vietnam-Korea University (VKU)</h4>
+
+<h4 align="center">Software Engineering Student | </h4>
 
 ---
 
