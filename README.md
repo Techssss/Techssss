@@ -1,4 +1,5 @@
 
+# Duc Minh Nghia Nguyen
 
 <h4 align="center">Software Engineering Student | </h4>
 
@@ -18,8 +19,8 @@ Software Engineering student at Vietnam-Korea University (VKU), expected graduat
 
 ## Tech Stack
 
-**Languages:** Java, C++, Python, JavaScript, TypeScript, SQL
-**Databases:** PostgreSQL, SQLite, Supabase
+**Languages:** Java, C++, Python, JavaScript, TypeScript, SQL  
+**Databases:** PostgreSQL, SQLite, Supabase  
 **Tools:** Git, Docker
 
 ## GitHub Stats
@@ -31,4 +32,5 @@ Software Engineering student at Vietnam-Korea University (VKU), expected graduat
 
 ## Contact
 
+- Email: [ducminhnghia.nguyen@gmail.com](mailto:ducminhnghia.nguyen@gmail.com)
 - Facebook: [win2065](https://www.facebook.com/win2065)
